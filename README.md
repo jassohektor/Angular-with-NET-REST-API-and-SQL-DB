@@ -2,7 +2,7 @@
   <h1>Angular Starter with .NET REST API & SQL Database</h1>
 </p>
 
-This project is an Angular Starter with .NET REST API &amp; SQL-DB which includes angular material, ngx-gallery and CRUD operations. I made this project in the year 2020 but has been updated recently and contains everything you need to run an Angular application and connect UI actions to a REST Web-API in charge to handle http requests operations and store data into a SQL database using entity relational model, can't say is perfect because I wanted to invest more time to implement security with JWT and interceptors using route Guards, some API pattern like UnitOfWork and DB indexing but I'm pretty sure everything done is based on best SOLID practices. 
+This project is an Angular Starter with .NET REST API &amp; SQL-DB and includes angular material, ngx-gallery and CRUD operations. I made this project in the year 2020 but has been updated recently and contains everything you need to run an Angular application and connect UI actions to a REST Web-API in charge to handle http requests operations and store data into a SQL database using entity relational model, can't say is perfect because I wanted to invest more time to implement security with JWT and interceptors using route Guards, some API pattern like UnitOfWork and DB indexing but I'm pretty sure everything done is based on best SOLID practices. 
 
 **Prerequisites:**
 - Node: >=12.11.6
